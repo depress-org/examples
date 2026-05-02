@@ -1,0 +1,26 @@
+{
+  "name": "@depress-org/examples",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "depress",
+    "astro",
+    "keystatic",
+    "demo"
+  ],
+  "homepage": "https://github.com/depress-org/examples#readme",
+  "bugs": {
+    "url": "https://github.com/depress-org/examples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depress-org/examples.git"
+  },
+  "license": "ISC",
+  "author": "bullwinkle",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
